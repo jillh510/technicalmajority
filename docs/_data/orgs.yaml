@@ -140,3 +140,24 @@
   description: >
     Debug Politics hosts events aimed at converting the tech community's frustration with politics into meaningful action. Let's use our talents as developers, designers, and technologists to find innovative ways to make a real difference.
   join_url: https://www.debugpolitics.com/signup.html
+  
+  - id: zooniverse
+  name: Zooniverse
+  url: https://www.zooniverse.org/
+  description: >
+    The Zooniverse is the world’s largest and most popular platform for people-powered research.
+  join_url: https://www.zooniverse.org/get-involved
+  
+   - id: scistarter
+  name: SciStarter
+  url: https://scistarter.com/
+  description: >
+    Join other citizen scientists to advance research in your own backyard or around the world.
+  join_url: https://scistarter.com/
+    
+   - id: citizensciencecentral
+  name: Citizen Science Central
+  url: http://www.birds.cornell.edu/citscitoolkit/
+  description: >
+    Citizen science, volunteer monitoring, participatory action research... this site supports organizers of all initiatives where public participants are involved in scientific research.
+  join_url: http://www.birds.cornell.edu/citscitoolkit/
